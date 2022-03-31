@@ -1,6 +1,6 @@
 [default]
-src = 'src'
-out = 'out'
 libs = ['lib']
+out = 'out'
+src = 'src'
 
 # See more config options https://github.com/gakonst/foundry/tree/master/config
